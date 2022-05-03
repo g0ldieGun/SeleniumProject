@@ -6,6 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/.idea/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/src/resourses" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/application/launcher/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/application/launcher/src/main/resourses" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/application/launcher/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/application/launcher/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

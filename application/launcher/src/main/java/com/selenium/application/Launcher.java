@@ -1,4 +1,4 @@
-package main.java;
+package com.selenium.application;
 
 public class Launcher {
 
